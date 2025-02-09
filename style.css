@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+  }
+  body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: linear-gradient(rgb(234, 84, 84), white);
+      font-family: sans-serif;
+  }
+  
+  table {
+      border-radius: 15px;
+      background: transparent;
+      box-shadow: 0px 0px 10px #030000, 0px 0px 20px black;
+      color: black;
+  }
+  
+  table tr {
+      height: 50px;
+      cursor: pointer;
+      font-size: 1.5em;
+      border: 2px solid black;
+    }
+    
+    table tr td {
+      border-radius: 10px;
+  }
+  
+  .keys-2 {
+      background-color: rgb(221, 113, 113);
+  }
+  .keys {
+      background-color: rgb(221, 113, 113) ;
+ }
+ 
+ .total {
+
+    background-color:brown;
+
+}
