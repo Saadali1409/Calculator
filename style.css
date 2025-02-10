@@ -24,13 +24,17 @@
       font-size: 1.5em;
       border: 2px solid black;
     }
+    td:hover{
+        background-color: black;
+        color: white;
+    }
     
     table tr td {
       border-radius: 10px;
   }
   
   .keys-2 {
-      background-color:#00212A;
+      background-color:white;
   }
   .keys {
       background-color: 00212A ;
