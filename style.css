@@ -13,8 +13,8 @@
   table {
       border-radius: 15px;
       /* background: transparent; */
-      background-color: aliceblue;
-      box-shadow: 0px 0px 10px #030000, 0px 0px 20px black;
+      background-color: gray;
+      box-shadow: 0px 0px 10px #982a2a, 0px 0px 20px black;
       color: black;
   }
   
